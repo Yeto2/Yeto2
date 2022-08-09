@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yassine Essemnaoui</h1>
 <h3 align="center">A Passionate Frontend Developer From Morocco</h3>
 <br>
-<img align="right" width="300px" height="300px" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeto2&label=Profile%20views&color=0e75b6&style=flat" alt="yeto2" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yassessemnaoui2" target="blank"><img src="https://img.shields.io/twitter/follow/yassessemnaoui2?logo=twitter&style=for-the-badge" alt="yassessemnaoui2" /></a> </p>
